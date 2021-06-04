@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="4615541e-a80a-4158-a71d-fdbc87da5746" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akvelon_python_internship_3_ainur_nazirov/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/akvelon_python_internship_3_ainur_nazirov/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akvelon_python_internship_3_ainur_nazirov/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/akvelon_python_internship_3_ainur_nazirov/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moneyapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/moneyapp/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moneyapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/moneyapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moneyapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/moneyapp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,14 +28,38 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.utils">
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="akvelon_python_internship_3_ainur_nazirov" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="akvelon_python_internship_3_ainur_nazirov" type="Python.DjangoServer" factoryName="Django server">
       <module name="akvelon_python_internship_3_ainur_nazirov" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="akvelon_python_internship_3_ainur_nazirov.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -47,6 +77,11 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.utils" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -60,6 +95,7 @@
       <workItem from="1622637775654" duration="117000" />
       <workItem from="1622637904365" duration="211000" />
       <workItem from="1622638126872" duration="4000" />
+      <workItem from="1622781159821" duration="489000" />
     </task>
     <task id="LOCAL-00001" summary="App">
       <created>1622637923132</created>
@@ -84,5 +120,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="App" />
     <option name="LAST_COMMIT_MESSAGE" value="App" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/akvelon_python_internship_3_ainur_nazirov$utils.coverage" NAME="utils Coverage Results" MODIFIED="1622781255231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -1,0 +1,48 @@
+//for users
+    {
+        "first_name": "Ivan",
+        "last_name": "Ivanov",
+        "email": "ivanov@mail.ru"
+    },
+    {
+        "first_name": "Alexandra",
+        "last_name": "Alexandrova",
+        "email": "sasha@yandex.ru"
+    },
+    {
+        "first_name": "Petr",
+        "last_name": "Petrov",
+        "email": "petya@gmail.com"
+    },
+    {
+        "first_name": "Ekaterina",
+        "last_name": "Kryuk",
+        "email": "kryuchok@mail.ru"
+    }
+
+//for transactions
+    {
+        "amount": "2690.00",
+        "date": "2021-05-25",
+        "user_id": 1
+    },
+    {
+        "amount": "-77.00",
+        "date": "2021-05-25",
+        "user_id": 1
+    },
+    {
+        "amount": "-196.00",
+        "date": "2021-05-26",
+        "user_id": 1
+    },
+    {
+        "amount": "2960.00",
+        "date": "2021-05-25",
+        "user_id": 2
+    },
+    {
+        "amount": "-300.00",
+        "date": "2021-05-28",
+        "user_id": 2
+    }
